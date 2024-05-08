@@ -1,6 +1,6 @@
  Hoja de trabajo 2, curso Introduccion a la ingenieria en Informatica y Sistemas
 
-#Curso que mas me gusto del primer semestre de ingenieria
+# Curso que mas me gusto del primer semestre de ingenieria
 ## Introduccion-a-la-Ingenieria-en-Informatica
 _La Ingeniería de Sistemas (IS) es un enfoque interdisciplinario y un medio para facilitar la realización de sistemas exitosos. Los sistemas exitosos deben satisfacer las necesidades de sus clientes, usuarios y demás partes interesadas._
 
